@@ -31,8 +31,6 @@ for (i = 0; i < 2; i++) {
     } else {
         console.log('Произошла ошибка!');
     }
-
-
 }
 
 console.log(personalMovieDB);
